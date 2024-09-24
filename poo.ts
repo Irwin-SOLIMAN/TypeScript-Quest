@@ -27,7 +27,6 @@ class BankCustomer {        // class Name is UperCase
             return false
         }
     }
-
 }
 
 // Tests
